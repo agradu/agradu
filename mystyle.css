@@ -1,0 +1,26 @@
+.flex-container{
+    display: flex;
+    border: 1px solid purple;
+    border-radius: 6px;
+    padding: 10px;
+}
+.flex-item{
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+    color: bisque;
+}
+.box-1{
+    background-color: rgb(112, 182, 22);
+}
+.box-2{
+    background-color: blue;
+}
+.box-3{
+    background-color: rgb(58, 37, 5);
+}
+.box-4{
+    background-color: blueviolet;
+}
