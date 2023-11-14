@@ -1,4 +1,4 @@
-# Welcome on my portfolio 👋
+# Welcome to my portfolio 👋
 
 🔭 I’m currently working on this project: [Sprachen Express - CMS](https://github.com/agradu/SE-cms)
 
